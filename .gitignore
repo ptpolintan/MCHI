@@ -1,0 +1,33 @@
+# =========================
+# .NET / C# (backend)
+# =========================
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/*.suo
+**/*.ncrunch*
+**/*.resharper
+**/_ReSharper.*
+**/*.DotSettings.user
+
+# Rider
+**/.idea/
+
+# Logs
+**/*.log
+
+# =========================
+# Next.js / Node (frontend)
+# =========================
+frontend/.next/
+frontend/node_modules/
+frontend/.env
+frontend/*.log
+frontend/.DS_Store
+
+# =========================
+# General / OS
+# =========================
+*.DS_Store
+Thumbs.db
